@@ -1,1 +1,1 @@
-# FORSK_internshipproject
+# FORSK_internship_project
